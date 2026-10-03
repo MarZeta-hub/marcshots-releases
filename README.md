@@ -2,6 +2,13 @@
 
 App Android para seguir partidos de fútbol en directo: marcadores, incidencias y tiros.
 
+<p align="center">
+  <img src="img/directo.webp" width="200" alt="En directo">
+  <img src="img/favoritos.webp" width="200" alt="Favoritos">
+  <img src="img/estadisticas.webp" width="200" alt="Estadísticas">
+  <img src="img/resumen.webp" width="200" alt="Resumen">
+</p>
+
 Este repositorio **no contiene el código de la app**. Sirve para tres cosas:
 
 | Qué | Dónde |
