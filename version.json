@@ -1,16 +1,16 @@
 {
-  "versionCode": 40,
+  "versionCode": 42,
   "versionName": "2026.10.03",
   "date": "2026-10-03",
-  "commit": "6a99ac36bb4763ea3369f4ed9b42404ce62357bb",
+  "commit": "83527ad53a047e6e3a63f0d28e22e8a23d3ea5ea",
   "minSdk": 31,
-  "apkUrl": "https://github.com/MarZeta-hub/marcshots-releases/releases/download/v2026.10.03-b40/marcshots.apk",
-  "releaseUrl": "https://github.com/MarZeta-hub/marcshots-releases/releases/tag/v2026.10.03-b40",
+  "apkUrl": "https://github.com/MarZeta-hub/marcshots-releases/releases/download/v2026.10.03-b42/marcshots.apk",
+  "releaseUrl": "https://github.com/MarZeta-hub/marcshots-releases/releases/tag/v2026.10.03-b42",
   "changes": {
-    "nuevo": [
-      "Primera versión publicada"
-    ],
+    "nuevo": [],
     "mejoras": [],
-    "correcciones": []
+    "correcciones": [
+      "Los goles ya no salen duplicados en los últimos eventos de favoritos"
+    ]
   }
 }
